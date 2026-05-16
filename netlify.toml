@@ -9,6 +9,7 @@
 # Environment Variables (set these in Netlify UI)
 [build.environment]
   NODE_VERSION = "18"
+  VITE_API_URL = "https://ecommerce-backend-qix7.onrender.com/api"
 
 # Redirect rules for SPA
 [[redirects]]
